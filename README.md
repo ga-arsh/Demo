@@ -1,5 +1,5 @@
 # Demo
 Test git repo
 <br>
-Author - Ga-arsh
+Author - arsh (ganga maya)
 
