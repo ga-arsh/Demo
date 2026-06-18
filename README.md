@@ -1,5 +1,4 @@
-# Demo
-Test git repo
+#MNIST DATA CLASSIFICATION
 <br>
-Author - arsh (ganga maya)
+I have used the stacking ensemble technique to classify the digits(0-9) in the MNIST data.
 
